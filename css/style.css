@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: orange;
+    height: 70vh;
+
+   }
+.jumbotron h1{
+    float: right;
+} 
+.jumbotron p {
+    float: right;
+    margin-right: -300px;
+    margin-top: 100px;
+   }
