@@ -18,19 +18,13 @@
     object-fit: cover;
 }
 .card-deck{
-    margin-top: 10vh;
-}
-.carousel-caption h5{
-    color: #000;
-}
-.carousel-caption p{
-    color: #000;
+    margin-top: 5vh;
 }
 .row img{
     height: 30vh;
 }
 #testimonials{
-    background-color:#FF9F45;
+    background-color: #B5FE83;
     
 }
 .container h2{
@@ -53,4 +47,27 @@
 .menu-button:hover {
     background-color:#df6c5c;
   }
+  #quote{
+      background-color: #B5FE83;
+      margin-bottom: 5vh;
+  }
+  #signform{
+      margin: 20vh;
+  }
+  .footer{
+      background-color: #F76E11;
+      margin: 50px;
+      margin-left: -2px;
+      width: 100%;
+  }
+  #form{
+      margin: 50px;
+
+  }
+  #social{
+      margin-top: -10px;
+  }
+  #social ul {
+    list-style-type: none;
+}
   
