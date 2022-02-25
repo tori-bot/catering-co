@@ -1,5 +1,5 @@
 .jumbotron {
-    background-color: orange;
+    background-color: #F76E11;
     height: 70vh;
     width: 100%;
 
@@ -41,17 +41,16 @@
     background-color: #FC4F4F;
     color: #000;
     display: inline-block;
-    border-radius: 30px;
+    border-radius: 27px;
     text-align: center;
     font-size: 27px;
     cursor: pointer;
     width: 170px;
-    padding: 10px;
+    padding: 7px;
     transition: 0.5s;
 }
 
 .menu-button:hover {
-    background-color:#FFBC80;
-    
+    background-color:#df6c5c;
   }
   
